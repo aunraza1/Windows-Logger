@@ -1,0 +1,6 @@
+C:\Users\Salman\source\repos\WindowsLogger\WindowsLogger\bin\Debug\WindowsLogger.exe.config
+C:\Users\Salman\source\repos\WindowsLogger\WindowsLogger\bin\Debug\WindowsLogger.exe
+C:\Users\Salman\source\repos\WindowsLogger\WindowsLogger\bin\Debug\WindowsLogger.pdb
+C:\Users\Salman\source\repos\WindowsLogger\WindowsLogger\obj\Debug\WindowsLogger.csproj.CoreCompileInputs.cache
+C:\Users\Salman\source\repos\WindowsLogger\WindowsLogger\obj\Debug\WindowsLogger.exe
+C:\Users\Salman\source\repos\WindowsLogger\WindowsLogger\obj\Debug\WindowsLogger.pdb
